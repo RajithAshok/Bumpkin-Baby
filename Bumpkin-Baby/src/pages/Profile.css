@@ -1,0 +1,342 @@
+.line-div3,
+.rectangle-div20 {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.line-div3 {
+  top: 108px;
+  left: -0.5px;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.rectangle-div20 {
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 69px;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 34.78%;
+  width: 6.67%;
+  top: 23.19%;
+  right: 63.33%;
+  bottom: 42.03%;
+  left: 30%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home-div2 {
+  position: absolute;
+  top: 19px;
+  left: 144px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.home-nav-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 0;
+  width: 360px;
+  height: 69px;
+}
+.diagnosis-div3 {
+  position: absolute;
+  top: 21px;
+  left: 120px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.scan-w-icon2 {
+  position: absolute;
+  height: 27.83%;
+  width: 6.67%;
+  top: 33.33%;
+  right: 70.28%;
+  bottom: 38.84%;
+  left: 23.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.scanner-nav-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 360px;
+  width: 360px;
+  height: 69px;
+}
+.play-game-b2 {
+  position: absolute;
+  top: 15px;
+  left: 123px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  display: inline-block;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+}
+.chatroom-nav-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 720px;
+  width: 360px;
+  height: 69px;
+}
+.profile-b-icon {
+  position: absolute;
+  top: 21px;
+  left: 107px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.profile-b {
+  position: absolute;
+  top: 19px;
+  left: 141px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  display: inline-block;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+}
+.profile-nav-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 1080px;
+  width: 360px;
+  height: 69px;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 242px;
+  left: 63px;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+.edit-btn-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 520px;
+  height: 50px;
+}
+.edit-profile-div {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  font-size: var(--font-size-xs);
+  letter-spacing: -0.33px;
+  font-weight: 600;
+  font-family: var(--open-sans-13-sp-body-3);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.editpen-icon {
+  position: absolute;
+  top: 13px;
+  left: 463px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.account-settings-button,
+.edit-porfile-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 289px;
+  left: 852px;
+  width: 520px;
+  height: 50px;
+}
+.account-settings-button {
+  top: 361px;
+}
+.log-out-div {
+  position: absolute;
+  top: 17px;
+  left: 16px;
+  font-size: var(--font-size-xs);
+  letter-spacing: -0.33px;
+  font-weight: 600;
+  font-family: var(--open-sans-13-sp-body-3);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.logout-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 433px;
+  left: 852px;
+  width: 520px;
+  height: 50px;
+}
+.help-div {
+  position: absolute;
+  top: 14px;
+  left: 16px;
+  font-size: var(--font-size-xs);
+  letter-spacing: -0.33px;
+  font-weight: 600;
+  font-family: var(--open-sans-13-sp-body-3);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+  width: 51px;
+}
+.help-img-icon {
+  position: absolute;
+  top: 7px;
+  left: 463px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.help-button,
+.help-div1 {
+  position: absolute;
+  width: 520px;
+  height: 50px;
+}
+.help-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 505px;
+  left: 852px;
+}
+.help-div1 {
+  top: 0;
+  left: 0;
+}
+.about-div {
+  position: absolute;
+  top: 13px;
+  left: 23px;
+  font-size: var(--font-size-xs);
+  letter-spacing: -0.33px;
+  font-weight: 600;
+  font-family: var(--open-sans-13-sp-body-3);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.about-img-icon {
+  position: absolute;
+  top: 12px;
+  left: 463px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.about-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 577px;
+  left: 852px;
+  width: 520px;
+  height: 50px;
+}
+.steve-div {
+  position: absolute;
+  top: 557px;
+  left: 117px;
+  letter-spacing: -0.33px;
+  font-weight: 600;
+  display: inline-block;
+  width: 142px;
+  height: 33px;
+}
+.baby-got-rash4 {
+  position: absolute;
+  top: 0;
+  left: 53px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 396px;
+  height: 183px;
+}
+.group-icon4,
+.logo-div4 {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  width: 53px;
+  height: 39px;
+}
+.logo-div4 {
+  top: -28px;
+  left: 496px;
+  width: 449px;
+  height: 183px;
+  font-family: var(--font-rhodium-libre);
+}
+.game-w-icon2 {
+  position: absolute;
+  top: 125px;
+  left: 799px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.profile-div3 {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--cards-2-main);
+  font-family: var(--open-sans-13-sp-body-3);
+}

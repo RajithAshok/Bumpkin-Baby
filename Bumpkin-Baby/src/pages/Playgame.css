@@ -1,0 +1,199 @@
+.line-div2,
+.rectangle-div16 {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.line-div2 {
+  top: 108px;
+  left: -0.5px;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.rectangle-div16 {
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 69px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 34.78%;
+  width: 6.67%;
+  top: 23.19%;
+  right: 63.33%;
+  bottom: 42.03%;
+  left: 30%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home-div1 {
+  position: absolute;
+  top: 19px;
+  left: 144px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.home-nav-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 0;
+  width: 360px;
+  height: 69px;
+}
+.scan-w-icon1 {
+  position: absolute;
+  height: 27.83%;
+  width: 6.67%;
+  top: 33.33%;
+  right: 70.28%;
+  bottom: 38.84%;
+  left: 23.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.diagnosis-div2 {
+  position: absolute;
+  top: 19px;
+  left: 120px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.scanner-nav-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 360px;
+  width: 360px;
+  height: 69px;
+}
+.play-game-b1 {
+  position: absolute;
+  top: 21px;
+  left: 98px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  display: inline-block;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+}
+.chatroom-nav-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 720px;
+  width: 360px;
+  height: 69px;
+}
+.profile-w-icon2 {
+  position: absolute;
+  height: 34.78%;
+  width: 6.67%;
+  top: 30.43%;
+  right: 63.61%;
+  bottom: 34.78%;
+  left: 29.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.profile-div2 {
+  position: absolute;
+  top: 19px;
+  left: 142px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.profile-nav-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 1080px;
+  width: 360px;
+  height: 69px;
+}
+.baby-got-rash3 {
+  position: absolute;
+  top: 0;
+  left: 53px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 396px;
+  height: 183px;
+}
+.group-icon3 {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  width: 53px;
+  height: 39px;
+}
+.game-b-icon,
+.logo-div3 {
+  position: absolute;
+  top: -28px;
+  left: 496px;
+  width: 449px;
+  height: 183px;
+}
+.game-b-icon {
+  top: 131px;
+  left: 780px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.frame-div2 {
+  position: absolute;
+  top: 178px;
+  left: 0;
+  width: 1440px;
+  height: 846px;
+  overflow: hidden;
+}
+.playgame-div {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--cards-2-main);
+  font-family: var(--font-rhodium-libre);
+}

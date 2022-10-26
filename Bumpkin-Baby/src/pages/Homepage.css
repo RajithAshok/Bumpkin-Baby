@@ -1,0 +1,620 @@
+.line-div,
+.rectangle-div2 {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.line-div {
+  top: 108px;
+  left: -0.5px;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.rectangle-div2 {
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 69px;
+}
+.home-b-icon {
+  position: absolute;
+  top: 16px;
+  left: 108px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.home-b {
+  position: absolute;
+  top: 19px;
+  left: 143px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  display: inline-block;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+}
+.home-nav-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 0;
+  width: 360px;
+  height: 69px;
+}
+.scan-w-icon {
+  position: absolute;
+  height: 28.29%;
+  width: 6.67%;
+  top: 36.51%;
+  right: 70.28%;
+  bottom: 35.2%;
+  left: 23.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.chatroom-nav-button,
+.scanner-nav-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 360px;
+  width: 360px;
+  height: 69px;
+}
+.chatroom-nav-button {
+  left: 720px;
+}
+.profile-w-icon {
+  position: absolute;
+  height: 35.36%;
+  width: 6.67%;
+  top: 33.56%;
+  right: 63.61%;
+  bottom: 31.08%;
+  left: 29.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.profile-div {
+  position: absolute;
+  top: 19px;
+  left: 142px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.profile-nav-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 1080px;
+  width: 360px;
+  height: 69px;
+}
+.card-background-div {
+  position: absolute;
+  height: calc(100% - 0.06px);
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0.06px;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--white);
+}
+.read-more1 {
+  font-weight: 600;
+}
+.read-more1,
+.span {
+  font-family: var(--open-sans-13-sp-body-3);
+}
+.patricia-kemp-div,
+.read-more {
+  position: absolute;
+  bottom: 24.06px;
+  color: var(--cards-2-main);
+  display: none;
+}
+.read-more {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  right: 25px;
+  font-size: var(--font-size-4xs);
+  text-align: right;
+}
+.patricia-kemp-div {
+  left: 64px;
+  font-weight: 600;
+}
+.avatar-icon {
+  position: absolute;
+  bottom: 16.06px;
+  left: 24px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+  display: none;
+}
+.desc-div,
+.title-div {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  line-height: 19px;
+  display: inline-block;
+  width: 269px;
+}
+.title-div {
+  top: 0;
+  font-size: var(--dm-serif-display-20-sp-h5-size);
+  line-height: 25px;
+  font-family: var(--dm-serif-display-20-sp-h5);
+  color: var(--heading-text);
+  width: 255px;
+}
+.heading-description {
+  position: absolute;
+  top: 208px;
+  left: 24px;
+  width: 269px;
+  height: 168px;
+  font-size: var(--open-sans-13-sp-body-3-size);
+  color: var(--body-text);
+}
+.points-div {
+  position: absolute;
+  top: 182px;
+  right: 25px;
+  text-align: right;
+  display: none;
+}
+.rash-div {
+  position: absolute;
+  top: 183px;
+  left: 23px;
+  font-weight: 600;
+  display: inline-block;
+}
+.rash-photo-icon {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-sm) var(--br-sm) 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 176px;
+  object-fit: cover;
+}
+.icon-120px-social-media {
+  position: absolute;
+  top: 24px;
+  left: calc(50% - 59.5px);
+  width: 120px;
+  height: 120px;
+  overflow: hidden;
+  display: none;
+}
+.acne-card-div {
+  position: absolute;
+  height: 47.4%;
+  width: 22.99%;
+  top: 3.43%;
+  right: 69.51%;
+  bottom: 49.17%;
+  left: 7.5%;
+  box-shadow: 0 24px 45px rgba(0, 0, 0, 0.12);
+  overflow: hidden;
+}
+.card-background-div1 {
+  position: absolute;
+  height: calc(100% - -0.26px);
+  width: calc(100% - 0.01px);
+  top: 0;
+  right: 0.01px;
+  bottom: -0.26px;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--white);
+}
+.patricia-kemp-div1,
+.read-more-button {
+  position: absolute;
+  bottom: 23.74px;
+  color: var(--cards-2-main);
+  display: none;
+}
+.read-more-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  right: 25.01px;
+  font-size: var(--font-size-4xs);
+  text-align: right;
+}
+.patricia-kemp-div1 {
+  left: 64px;
+  font-weight: 600;
+}
+.avatar-icon1 {
+  position: absolute;
+  bottom: 15.74px;
+  left: 24px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+  display: none;
+}
+.baby-heat-rash {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.heading-description1 {
+  position: absolute;
+  top: 208px;
+  left: 24px;
+  width: 269px;
+  height: 206px;
+  font-size: var(--open-sans-13-sp-body-3-size);
+  color: var(--body-text);
+}
+.points-div1 {
+  position: absolute;
+  top: 182px;
+  right: 25.01px;
+  text-align: right;
+  display: none;
+}
+.heat-card-div {
+  position: absolute;
+  height: 49.45%;
+  width: 22.99%;
+  top: 3.43%;
+  right: 38.05%;
+  bottom: 47.12%;
+  left: 38.96%;
+  box-shadow: 0 24px 45px rgba(0, 0, 0, 0.12);
+  overflow: hidden;
+}
+.card-background-div2 {
+  position: absolute;
+  height: calc(100% - -0.4px);
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: -0.4px;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--white);
+}
+.patricia-kemp-div2,
+.read-more-button1 {
+  position: absolute;
+  bottom: 23.6px;
+  color: var(--cards-2-main);
+  display: none;
+}
+.read-more-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  right: 25px;
+  font-size: var(--font-size-4xs);
+  text-align: right;
+}
+.patricia-kemp-div2 {
+  left: 64px;
+  font-weight: 600;
+}
+.avatar-icon2 {
+  position: absolute;
+  bottom: 15.6px;
+  left: 24px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+  display: none;
+}
+.heading-description2 {
+  position: absolute;
+  top: 208px;
+  left: 24px;
+  width: 269px;
+  height: 187px;
+  font-size: var(--open-sans-13-sp-body-3-size);
+  color: var(--body-text);
+}
+.drooling-card-div {
+  position: absolute;
+  height: 50.59%;
+  width: 22.99%;
+  top: 1.89%;
+  right: 6.6%;
+  bottom: 47.52%;
+  left: 70.42%;
+  box-shadow: 0 24px 45px rgba(0, 0, 0, 0.12);
+  overflow: hidden;
+}
+.rectangle-div6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--white);
+}
+.read-more4 {
+  position: absolute;
+  height: 75%;
+  width: 89.74%;
+  top: 10%;
+  right: 5.13%;
+  bottom: 15%;
+  left: 5.13%;
+  font-size: var(--font-size-4xs);
+  color: var(--cards-2-main);
+  text-align: right;
+  display: inline-block;
+}
+.readmorebtn-button,
+.readmorebtn-button2,
+.readmorebtn-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 2.36%;
+  width: 5.42%;
+  top: 47.52%;
+  right: 72.01%;
+  bottom: 50.12%;
+  left: 22.57%;
+}
+.readmorebtn-button2,
+.readmorebtn-button3 {
+  right: 40.56%;
+  left: 54.03%;
+}
+.readmorebtn-button3 {
+  right: 8.89%;
+  left: 85.69%;
+}
+.card-background-div3 {
+  position: absolute;
+  height: calc(100% - -0.22px);
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: -0.22px;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--white);
+}
+.patricia-kemp-div3,
+.read-more-button2 {
+  position: absolute;
+  bottom: 23.78px;
+  font-size: var(--font-size-4xs);
+  color: var(--cards-2-main);
+  display: none;
+}
+.read-more-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  right: 25px;
+  text-align: right;
+}
+.patricia-kemp-div3 {
+  left: 64px;
+  font-weight: 600;
+  font-family: var(--open-sans-13-sp-body-3);
+  text-align: left;
+}
+.avatar-icon3 {
+  position: absolute;
+  bottom: 15.78px;
+  left: 24px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+  display: none;
+}
+.desc-div3,
+.title-div3 {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  font-size: var(--open-sans-13-sp-body-3-size);
+  line-height: 19px;
+  font-family: var(--open-sans-13-sp-body-3);
+  color: var(--body-text);
+  text-align: left;
+  display: inline-block;
+  width: 269px;
+}
+.title-div3 {
+  top: 0;
+  font-size: var(--dm-serif-display-20-sp-h5-size);
+  line-height: 25px;
+  font-family: var(--dm-serif-display-20-sp-h5);
+  color: var(--heading-text);
+  width: 255px;
+}
+.heading-description3 {
+  position: absolute;
+  top: 208px;
+  left: 24px;
+  width: 269px;
+  height: 187px;
+}
+.points-div3,
+.rash-div3 {
+  position: absolute;
+  font-size: var(--font-size-4xs);
+  font-family: var(--open-sans-13-sp-body-3);
+  color: var(--additional-text);
+}
+.points-div3 {
+  top: 182px;
+  right: 25px;
+  text-align: right;
+  display: none;
+}
+.rash-div3 {
+  top: 183px;
+  left: 23px;
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+}
+.diaper-card-div {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 24px 45px rgba(0, 0, 0, 0.12);
+  overflow: hidden;
+}
+.rectangle-div10 {
+  position: absolute;
+  height: 4.58%;
+  width: 23.56%;
+  top: 90.39%;
+  right: 11.48%;
+  bottom: 5.03%;
+  left: 64.95%;
+  background-color: var(--white);
+}
+.read-more13,
+.readmorebtn-button4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.read-more13 {
+  height: 3.43%;
+  width: 21.15%;
+  top: 90.85%;
+  right: 12.69%;
+  bottom: 5.72%;
+  left: 66.16%;
+  font-size: var(--font-size-4xs);
+  color: var(--cards-2-main);
+  text-align: right;
+  display: inline-block;
+}
+.readmorebtn-button4 {
+  height: 51.65%;
+  width: 22.99%;
+  top: 56.26%;
+  right: 69.51%;
+  bottom: -7.92%;
+  left: 7.5%;
+}
+.frame-div {
+  position: absolute;
+  top: 178px;
+  left: 0;
+  width: 1440px;
+  height: 863px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-4xs);
+  color: var(--additional-text);
+  font-family: var(--open-sans-13-sp-body-3);
+}
+.game-w-icon {
+  position: absolute;
+  top: 123px;
+  left: 816px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.baby-got-rash1 {
+  position: absolute;
+  top: 0;
+  left: 53px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 396px;
+  height: 183px;
+}
+.group-icon1,
+.logo-div1 {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  width: 53px;
+  height: 39px;
+}
+.logo-div1 {
+  top: -28px;
+  left: 496px;
+  width: 449px;
+  height: 183px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-rhodium-libre);
+}
+.diagnosis-div,
+.play-game-div {
+  position: absolute;
+  top: 127px;
+  left: 492px;
+  letter-spacing: -0.33px;
+  display: inline-block;
+}
+.play-game-div {
+  top: 123px;
+  left: 856px;
+}
+.homepage-div {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1041px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--cards-2-main);
+  font-family: var(--font-comfortaa);
+}

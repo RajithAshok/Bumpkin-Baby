@@ -1,0 +1,295 @@
+.line-div1,
+.rectangle-div11 {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.line-div1 {
+  top: 108px;
+  left: -0.5px;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.rectangle-div11 {
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 69px;
+}
+.vector-icon {
+  position: absolute;
+  height: 34.78%;
+  width: 6.67%;
+  top: 23.19%;
+  right: 63.33%;
+  bottom: 42.03%;
+  left: 30%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home-div {
+  position: absolute;
+  top: 19px;
+  left: 144px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.home-nav-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 0;
+  width: 360px;
+  height: 69px;
+}
+.diagnosis-div1 {
+  position: absolute;
+  top: 19px;
+  left: 120px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.scan-b-icon {
+  position: absolute;
+  top: 23px;
+  left: 83px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.scanner-nav-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 360px;
+  width: 360px;
+  height: 69px;
+}
+.play-game-b {
+  position: absolute;
+  top: 18px;
+  left: 118px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  display: inline-block;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+}
+.game-w-icon1 {
+  position: absolute;
+  top: 22px;
+  left: 75px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.chatroom-nav-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 720px;
+  width: 360px;
+  height: 69px;
+}
+.profile-w-icon1 {
+  position: absolute;
+  height: 34.78%;
+  width: 6.67%;
+  top: 30.43%;
+  right: 63.61%;
+  bottom: 34.78%;
+  left: 29.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.profile-div1 {
+  position: absolute;
+  top: 19px;
+  left: 142px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.profile-nav-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 1080px;
+  width: 360px;
+  height: 69px;
+}
+.baby-got-rash2 {
+  position: absolute;
+  top: 0;
+  left: 53px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 396px;
+  height: 183px;
+}
+.group-icon2,
+.logo-div2 {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  width: 53px;
+  height: 39px;
+}
+.logo-div2 {
+  top: -28px;
+  left: 496px;
+  width: 449px;
+  height: 183px;
+}
+.image-16-button,
+.image-17-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 117px;
+  left: 795px;
+  width: 64.52px;
+  height: 50px;
+  background-image: url(../../public/image16@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.image-17-button {
+  top: 123px;
+  left: 548px;
+  width: 50px;
+  background-image: url(../../public/image17@3x.png);
+}
+.choose-any-method-of-scanning {
+  position: absolute;
+  top: 227px;
+  left: 455px;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.answer-a-few-questions-for-mor {
+  position: absolute;
+  top: 358px;
+  left: 483px;
+  font-size: 18px;
+  font-family: var(--font-inter);
+  display: inline-block;
+}
+.group-input,
+.group-input1,
+.group-input2 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 434px;
+  left: 476px;
+  width: 489px;
+  height: 50px;
+}
+.group-input1,
+.group-input2 {
+  top: 508px;
+}
+.group-input2 {
+  top: 581px;
+}
+.rectangle-div15 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--cards-2-main);
+  border: 2px solid var(--cards-2-main);
+  box-sizing: border-box;
+}
+.log-in-div3 {
+  position: absolute;
+  height: 28.85%;
+  width: 25.66%;
+  top: 36.54%;
+  right: 37.53%;
+  bottom: 34.62%;
+  left: 36.82%;
+  font-size: var(--open-sans-13-sp-body-3-size);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: var(--font-roboto);
+  color: #d9d9d9;
+  text-align: center;
+  display: inline-block;
+}
+.button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 716px;
+  left: 549px;
+  border-radius: var(--br-md);
+  width: 343px;
+  height: 52px;
+}
+.frame-div1 {
+  position: absolute;
+  top: 178px;
+  left: 0;
+  width: 1440px;
+  height: 846px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 32px;
+  font-family: var(--font-roboto);
+}
+.scanner-div {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--cards-2-main);
+  font-family: var(--font-rhodium-libre);
+}

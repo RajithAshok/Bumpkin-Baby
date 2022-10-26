@@ -1,0 +1,279 @@
+.line-div4,
+.rectangle-div24 {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.line-div4 {
+  top: 108px;
+  left: -0.5px;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.rectangle-div24 {
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 69px;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 34.78%;
+  width: 6.67%;
+  top: 23.19%;
+  right: 63.33%;
+  bottom: 42.03%;
+  left: 30%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home-div3 {
+  position: absolute;
+  top: 19px;
+  left: 144px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.home-nav-button4,
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+  left: 0;
+  width: 360px;
+  height: 69px;
+}
+.home-nav-button4 {
+  background-color: transparent;
+  top: 109px;
+}
+.rectangle-button {
+  background-color: var(--white);
+  top: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.scan-w-icon3 {
+  position: absolute;
+  height: 27.83%;
+  width: 6.67%;
+  top: 33.33%;
+  right: 70.28%;
+  bottom: 38.84%;
+  left: 23.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.chatroom-nav-button4,
+.scanner-nav-button4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 360px;
+  width: 360px;
+  height: 69px;
+}
+.chatroom-nav-button4 {
+  left: 720px;
+}
+.profile-w-icon3 {
+  position: absolute;
+  height: 34.78%;
+  width: 6.67%;
+  top: 30.43%;
+  right: 63.61%;
+  bottom: 34.78%;
+  left: 29.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.profile-div4 {
+  position: absolute;
+  top: 19px;
+  left: 142px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.profile-nav-button4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 1080px;
+  width: 360px;
+  height: 69px;
+}
+.baby-acne-div1 {
+  position: absolute;
+  top: 208px;
+  left: 608px;
+  font-size: var(--font-size-xl);
+  line-height: 25px;
+  font-family: var(--dm-serif-display-20-sp-h5);
+  text-align: left;
+  display: inline-block;
+  width: 224px;
+  height: 27px;
+}
+.boy-icon,
+.cloud-icon {
+  position: absolute;
+  top: 193px;
+  left: 662px;
+  width: 478px;
+  height: 442px;
+  object-fit: cover;
+}
+.cloud-icon {
+  top: 0;
+  left: 0;
+  width: 981px;
+  height: 537px;
+}
+.group-div,
+.rectangle-div27 {
+  position: absolute;
+  top: 290px;
+  left: 120px;
+  width: 1140px;
+  height: 635px;
+}
+.rectangle-div27 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--cards-2-main);
+  border: 2px solid var(--cards-2-main);
+  box-sizing: border-box;
+}
+.log-in-div4 {
+  position: absolute;
+  height: 30.61%;
+  width: 25.85%;
+  top: 36.54%;
+  right: 37.62%;
+  bottom: 32.85%;
+  left: 36.53%;
+  font-size: var(--open-sans-13-sp-body-3-size);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: var(--font-roboto);
+  color: var(--white);
+  text-align: center;
+  display: inline-block;
+}
+.button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 900px;
+  left: 477px;
+  border-radius: var(--br-md);
+  width: 294px;
+  height: 49px;
+}
+.baby-got-rash5 {
+  position: absolute;
+  top: 0;
+  left: 53px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 396px;
+  height: 183px;
+}
+.group-icon5,
+.logo-div5 {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  width: 53px;
+  height: 39px;
+}
+.logo-div5 {
+  top: -28px;
+  left: 496px;
+  width: 449px;
+  height: 183px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-rhodium-libre);
+}
+.my-sister-had-got-this-rash-so,
+.rectangle-div28 {
+  position: absolute;
+  top: 447px;
+  left: 370px;
+  width: 484px;
+  height: 242px;
+}
+.rectangle-div28 {
+  background-color: var(--white);
+}
+.my-sister-had-got-this-rash-so {
+  line-height: 25px;
+  text-transform: uppercase;
+  font-family: var(--open-sans-13-sp-body-3);
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.diagnosis-div4,
+.play-game-b3 {
+  position: absolute;
+  top: 130px;
+  left: 479px;
+  letter-spacing: -0.33px;
+  display: inline-block;
+}
+.play-game-b3 {
+  top: 121px;
+  left: 836px;
+}
+.game-w-icon3 {
+  position: absolute;
+  top: 120px;
+  left: 808px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.baby-acne-div {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--cards-2-main);
+  font-family: var(--font-comfortaa);
+}

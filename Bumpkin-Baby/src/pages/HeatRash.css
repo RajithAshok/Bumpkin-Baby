@@ -1,0 +1,271 @@
+.line-div5,
+.rectangle-div29 {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.line-div5 {
+  top: 108px;
+  left: -0.5px;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.rectangle-div29 {
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 69px;
+}
+.vector-icon4 {
+  position: absolute;
+  height: 34.78%;
+  width: 6.67%;
+  top: 23.19%;
+  right: 63.33%;
+  bottom: 42.03%;
+  left: 30%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home-div4 {
+  position: absolute;
+  top: 19px;
+  left: 144px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.home-nav-button5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 0;
+  width: 360px;
+  height: 69px;
+}
+.scan-w-icon4 {
+  position: absolute;
+  height: 27.83%;
+  width: 6.67%;
+  top: 33.33%;
+  right: 70.28%;
+  bottom: 38.84%;
+  left: 23.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.chatroom-nav-button5,
+.scanner-nav-button5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 360px;
+  width: 360px;
+  height: 69px;
+}
+.chatroom-nav-button5 {
+  left: 720px;
+}
+.profile-w-icon4 {
+  position: absolute;
+  height: 34.78%;
+  width: 6.67%;
+  top: 30.43%;
+  right: 63.61%;
+  bottom: 34.78%;
+  left: 29.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.profile-div5 {
+  position: absolute;
+  top: 19px;
+  left: 142px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.profile-nav-button5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 1080px;
+  width: 360px;
+  height: 69px;
+}
+.rectangle-div33 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--cards-2-main);
+  border: 2px solid var(--cards-2-main);
+  box-sizing: border-box;
+}
+.log-in-div5 {
+  position: absolute;
+  height: 31.91%;
+  width: 25.85%;
+  top: 34.41%;
+  right: 37.62%;
+  bottom: 33.67%;
+  left: 36.53%;
+  font-size: var(--open-sans-13-sp-body-3-size);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: var(--font-roboto);
+  color: var(--white);
+  text-align: center;
+  display: inline-block;
+}
+.button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 954px;
+  left: 573px;
+  border-radius: var(--br-md);
+  width: 294px;
+  height: 47px;
+}
+.heat-rash-div1 {
+  position: absolute;
+  top: 212px;
+  left: 618px;
+  font-size: var(--font-size-xl);
+  line-height: 25px;
+  font-family: var(--dm-serif-display-20-sp-h5);
+  text-align: left;
+  display: inline-block;
+  width: 204px;
+  height: 46px;
+}
+.baby-got-rash6 {
+  position: absolute;
+  top: 0;
+  left: 53px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 396px;
+  height: 183px;
+}
+.group-icon6,
+.logo-div6 {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  width: 53px;
+  height: 39px;
+}
+.logo-div6 {
+  top: -28px;
+  left: 496px;
+  width: 449px;
+  height: 183px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-rhodium-libre);
+}
+.cloud-icon1,
+.girl-icon {
+  position: absolute;
+  top: 0;
+  left: 131.23px;
+  width: 986.12px;
+  height: 531px;
+  object-fit: cover;
+}
+.girl-icon {
+  top: 239.69px;
+  left: 0;
+  width: 263.23px;
+  height: 395.31px;
+}
+.group-div2 {
+  position: absolute;
+  top: 315px;
+  left: 161px;
+  width: 1117.34px;
+  height: 635px;
+}
+.my-brother-had-got-heat-rash-a,
+.rectangle-div34 {
+  position: absolute;
+  top: 469px;
+  left: 499px;
+  width: 523px;
+  height: 249px;
+}
+.rectangle-div34 {
+  background-color: var(--white);
+}
+.my-brother-had-got-heat-rash-a {
+  line-height: 25px;
+  text-transform: uppercase;
+  font-family: var(--open-sans-13-sp-body-3);
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.diagnosis-div5,
+.play-game-b4 {
+  position: absolute;
+  top: 128px;
+  left: 468px;
+  letter-spacing: -0.33px;
+  display: inline-block;
+}
+.play-game-b4 {
+  top: 124px;
+  left: 836px;
+}
+.game-w-icon4 {
+  position: absolute;
+  top: 130px;
+  left: 798px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.heat-rash-div {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--cards-2-main);
+  font-family: var(--font-comfortaa);
+}

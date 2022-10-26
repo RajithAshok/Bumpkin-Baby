@@ -1,0 +1,143 @@
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 946px;
+  background-color: var(--white);
+  width: 492px;
+  height: 1024px;
+}
+.click-here-button,
+.dont-have-an-account {
+  position: absolute;
+  top: 647px;
+  display: inline-block;
+}
+.click-here-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 1218px;
+  font-size: var(--font-size-2xs);
+  font-family: var(--font-roboto);
+  color: var(--cards-2-main);
+  text-align: left;
+}
+.dont-have-an-account {
+  left: 1059px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 948px;
+  height: 1024px;
+  object-fit: cover;
+}
+.log-in-div1 {
+  position: absolute;
+  top: 285px;
+  left: 978px;
+  font-size: 48px;
+  letter-spacing: -0.01em;
+  font-family: var(--font-comfortaa);
+  display: flex;
+  align-items: center;
+  width: 214px;
+  height: 46px;
+}
+.component-input,
+.component-input1 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 395px;
+  left: 1022px;
+  width: 343px;
+  height: 52px;
+}
+.component-input1 {
+  top: 470px;
+}
+.rectangle-div1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--cards-2-main);
+  border: 2px solid var(--cards-2-main);
+  box-sizing: border-box;
+}
+.log-in-div2 {
+  position: absolute;
+  height: 28.85%;
+  width: 12.83%;
+  top: 36.54%;
+  right: 43.94%;
+  bottom: 34.62%;
+  left: 43.23%;
+  font-size: var(--open-sans-13-sp-body-3-size);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: var(--font-roboto);
+  color: var(--white);
+  text-align: center;
+  display: inline-block;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 578px;
+  left: 1022px;
+  border-radius: var(--br-md);
+  width: 343px;
+  height: 52px;
+}
+.baby-got-rash {
+  position: absolute;
+  top: 0;
+  left: 53px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 396px;
+  height: 183px;
+}
+.group-icon,
+.logo-div {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  width: 53px;
+  height: 39px;
+}
+.logo-div {
+  top: 395px;
+  left: 249px;
+  width: 449px;
+  height: 183px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-rhodium-libre);
+}
+.log-in-div {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--cards-2-main);
+  font-family: var(--font-roboto);
+}
