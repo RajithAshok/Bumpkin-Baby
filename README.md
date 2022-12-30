@@ -1,5 +1,10 @@
 # Bumpkin-Baby
-2d Interactive game.
+A web application for teaching parents about baby rashes that they may encounter along the way.
+
+We have made an image processing model using tensorflow to help detect what rash the photo uploaded is. 
+
+We have also built a 2D interactive game on the Unity engine to better teach the ways of dealing with such rashes.
+
 ![bc88d323-4354-43fd-aaf9-97824cafbb12](https://user-images.githubusercontent.com/76782291/195976063-f2ae1a04-f479-4ed6-82f9-415f48400074.jpg)
 ![f2c9123f-424e-4371-aec8-a9c48b6b66ee](https://user-images.githubusercontent.com/76782291/195976033-16326f7b-c068-41ef-a501-94f8bb55494a.jpg)
 ![13656df2-a921-422b-8024-2ad8ac88a497](https://user-images.githubusercontent.com/76782291/195976038-2a5e14d0-3c51-4f83-87c5-923df67371fe.jpg)
