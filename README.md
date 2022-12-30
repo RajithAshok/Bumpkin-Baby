@@ -1,7 +1,7 @@
 # Bumpkin-Baby
 A web application for teaching parents about baby rashes that they may encounter along the way.
 
-We have made an image processing model using tensorflow to help detect what rash the photo uploaded is. 
+We created a tensorflow-based image processing model to identify the type of rash in the uploaded photo.
 
 We have also built a 2D interactive game on the Unity engine to better teach the ways of dealing with such rashes.
 
